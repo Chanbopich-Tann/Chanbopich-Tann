@@ -32,7 +32,7 @@ I hold an **M.S. in Cyber Security (Network Security)** from UNC Charlotte and a
 * 💬 **[Cadet Chat Application](https://github.com/Chanbopich-Tann/Cadet-Chat-App)**  
   Built a secure, encrypted messaging platform using ASP.NET and Ruby on Rails focused on cybersecurity education and secure access controls.
 
-* 🌀 **[Smart Bladeless Fan & IoT Controller](https://github.com/Chanbopich-Tann/smart-bladeless-fan)**  
+* 🌀 **[Smart Bladeless Fan](https://github.com/Chanbopich-Tann/smart-bladeless-fan)**  
   An open-source Arduino control system integrating 3D printing (Prusa), laser cutting, multi-mode RGB debouncing, and embedded hardware security.
 
 * 📊 **[Risk-Based Authentication & Telemetry Model](https://github.com/Chanbopich-Tann/Risk-Based-Auth-Model)**  
