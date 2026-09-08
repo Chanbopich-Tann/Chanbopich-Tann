@@ -41,6 +41,6 @@ I hold an **M.S. in Cyber Security (Network Security)** from UNC Charlotte and a
 ---
 
 ### 🌐 Connect & Media
-* **Portfolio Website:** [chanbopichtann.com](https://www.chanbopichtann.com/)
+* **Portfolio Website:** [www.chanbopichtann.com](https://www.chanbopichtann.com/)
 * **LinkedIn:** [linkedin.com/in/chanbopich-tann](https://www.linkedin.com/in/chanbopich-tann-527358224/)
 * **Email:** chanbopich.tann11@gmail.com
