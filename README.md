@@ -35,6 +35,9 @@ I hold an **M.S. in Cyber Security (Network Security)** from UNC Charlotte and a
 * 🌀 **[Smart Bladeless Fan](https://github.com/Chanbopich-Tann/smart-bladeless-fan)**  
   An open-source Arduino control system integrating 3D printing (Prusa), laser cutting, multi-mode RGB debouncing, and embedded hardware security.
 
+* 🏮 **[Smart RGB Lamp Box](https://github.com/Chanbopich-Tann/smart-rgb-lamp-box)**  
+  An interactive Arduino ambient lighting system with 3D-printed house frame hangers, laser-cut tree diffusion panels, LDR photoresistor auto-dimming, and musical playback
+  
 * 📊 **[Risk-Based Authentication & Telemetry Model](https://github.com/Chanbopich-Tann/Risk-Based-Auth-Model)**  
   Mathematica and Machine Learning models designed to analyze login telemetry and detect anomalous activity to reduce unauthorized access attempts.
 
