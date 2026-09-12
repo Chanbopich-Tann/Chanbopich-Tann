@@ -11,7 +11,7 @@ I hold an **M.S. in Cyber Security (Network Security)** from UNC Charlotte and a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-[![Chanbopich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbopich-Tann&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chanbopich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanbopich-Tann&show_icons=true&theme=tokyonight)](https://github.com/Chanbopich-Tann)
 
 ---
 
