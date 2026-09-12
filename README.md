@@ -37,6 +37,15 @@ I hold an **M.S. in Cyber Security (Network Security)** from UNC Charlotte and a
 
 * 🏮 **[Smart RGB Lamp Box](https://github.com/Chanbopich-Tann/RGB-lamp-box)**  
   An interactive Arduino ambient lighting system with 3D-printed house frame hangers, laser-cut tree diffusion panels, LDR photoresistor auto-dimming, and musical playback
+
+
+<!-- Add these to the top of your Profile README -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanbopich-Tann&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
   
 * 📊 **[Risk-Based Authentication & Telemetry Model](https://github.com/Chanbopich-Tann/Risk-Based-Auth-Model)**  
   Mathematica and Machine Learning models designed to analyze login telemetry and detect anomalous activity to reduce unauthorized access attempts.
